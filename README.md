@@ -11,7 +11,7 @@
    
    Power BI Desktop - Main tool used to create an interactive Netflix dashboard and visualize insights.
    Power Query - Used for data cleaning, transformation, and shaping raw data.
-   DAX (Data Analysis Expressions) - Used to create calculated measures and columns for analyzing total shows, genres, ratings, and release trends.
+   DAX (Data Analysis Expressions) - Used to create calculated measures and columns for analyzing total shows, genres, ratings, and           release trends.
    File Format - .pbit for development and .png for dashboard previews.
 
 4) Data Source
